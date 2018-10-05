@@ -6,9 +6,9 @@ Python program to solve 9x9 sudoku based in DSatur algorithm.
 
 In the terminal, run Main.py passing the file name with the sudoku to be solved:
 ```bash
-python Main.py arquivo
+python Main.py file.txt
 ```
-The sudoku must be in a specific format, as this exemple:
+The sudoku must be in a specific format in the file, as this exemple:
 
 ```
 .284763..
