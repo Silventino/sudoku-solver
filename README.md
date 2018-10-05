@@ -1,14 +1,14 @@
 # sudoku-solver
 
-Programa em Python que resolve sudokus 9x9 baseado no algorítmo de DSatur.
+Python program to solve 9x9 sudoku based in DSatur algorithm.# sudoku-solver
 
-## Instruções de uso
+## Instructions
 
-No terminal, rode o Main.py passando como parâmetro um arquivo com o sudoku a ser resolvido:
+In the terminal, run Main.py passing the file name with the sudoku to be solved:
 ```bash
 python Main.py arquivo
 ```
-Por exemplo, o sudoku dentro do arquivo deve estar no seguinte formato:
+The sudoku must be in a specific format, as this exemple:
 
 ```
 .284763..
@@ -21,8 +21,7 @@ Por exemplo, o sudoku dentro do arquivo deve estar no seguinte formato:
 ..692...5
 ..2645...
 ```
-
-Que será resolvido, resultando em:
+The program will then write the result as follow:
 
 ```
 9 2 8 4 7 6 3 5 1
@@ -36,5 +35,6 @@ Que será resolvido, resultando em:
 1 9 2 6 4 5 8 7 3
 ```
 
-O próximo passo é fazer o programa resolver outros tamanhos de sudoku. 
+Next step is to make this code run to every size of Sudoku.
+
 
