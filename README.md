@@ -1,6 +1,6 @@
 # sudoku-solver
 
-Python program to solve 9x9 sudoku based in DSatur algorithm.# sudoku-solver
+Python program to solve 9x9 sudoku based in DSatur algorithm.
 
 ## Instructions
 
